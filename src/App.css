@@ -1,0 +1,19 @@
+.body {
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card-state {
+  width: 30%;
+  border: solid 1px;
+  margin-top: 5px;
+  align-items: center;
+}
+
+.card-state h1, 
+.card-state p{
+  color: black;
+}
